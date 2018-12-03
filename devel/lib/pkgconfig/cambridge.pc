@@ -1,0 +1,8 @@
+prefix=/home/stevenliu/monoslam_ws/devel
+
+Name: cambridge
+Description: Description of cambridge
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/stevenliu/monoslam_ws/devel/lib 
+Requires: message_runtime
