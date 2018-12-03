@@ -1,0 +1,2 @@
+cambridge:mono-slam
+-DCATKIN_DEVEL_PREFIX=/home/stevenliu/monoslam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/stevenliu/monoslam_ws/install -G Unix Makefiles

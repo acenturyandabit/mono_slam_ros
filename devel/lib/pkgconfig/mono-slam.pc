@@ -1,0 +1,8 @@
+prefix=/home/stevenliu/monoslam_ws/devel
+
+Name: mono-slam
+Description: Description of mono-slam
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/stevenliu/monoslam_ws/devel/lib 
+Requires: 
